@@ -1,6 +1,6 @@
 public class HiGit {
     public static void main(String args[]){
-        System.out.println("H421rld!");
+        System.out.println("chaoge!");
 
     }
 }
